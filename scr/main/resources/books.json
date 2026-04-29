@@ -1,0 +1,78 @@
+[
+  {
+    "barcode": "BAR-1001",
+    "isReferenceOnly": false,
+    "borrowed": "Apr 24, 2026, 1:25:20 PM",
+    "dueDate": "May 8, 2026, 1:25:20 PM",
+    "price": 45.0,
+    "format": "PAPERBACK",
+    "status": "LOANED",
+    "dateOfPurchase": "Apr 24, 2026, 1:21:12 PM",
+    "ISBN": "978-0-13-235088-4",
+    "title": "Clean Code",
+    "subject": "Dasturlash",
+    "publisher": "Prentice Hall",
+    "language": "Ingliz",
+    "numberOfPages": 431,
+    "author": {
+      "name": "Robert C. Martin",
+      "description": "Dasturlash bo\u0027yicha ekspert"
+    }
+  },
+  {
+    "barcode": "BAR-1002",
+    "isReferenceOnly": false,
+    "borrowed": "Apr 24, 2026, 1:25:32 PM",
+    "dueDate": "May 8, 2026, 1:25:32 PM",
+    "price": 25.0,
+    "format": "HARDCOVER",
+    "status": "LOANED",
+    "dateOfPurchase": "Apr 24, 2026, 1:21:12 PM",
+    "ISBN": "978-9943-07-123-4",
+    "title": "O\u0027tkan kunlar",
+    "subject": "Roman",
+    "publisher": "Sharq nashriyoti",
+    "language": "O\u0027zbek",
+    "numberOfPages": 320,
+    "author": {
+      "name": "Abdulla Qodiriy",
+      "description": "O\u0027zbek yozuvchisi"
+    }
+  },
+  {
+    "barcode": "BAR-1003",
+    "isReferenceOnly": false,
+    "price": 35.0,
+    "format": "PAPERBACK",
+    "status": "AVAILABLE",
+    "dateOfPurchase": "Apr 24, 2026, 1:21:12 PM",
+    "ISBN": "978-0-13-110362-7",
+    "title": "The C Programming Language",
+    "subject": "Dasturlash",
+    "publisher": "Prentice Hall",
+    "language": "Ingliz",
+    "numberOfPages": 272,
+    "author": {
+      "name": "Robert C. Martin",
+      "description": "Dasturlash bo\u0027yicha ekspert"
+    }
+  },
+  {
+    "barcode": "BAR-1004",
+    "isReferenceOnly": false,
+    "price": 15.0,
+    "format": "PAPERBACK",
+    "status": "AVAILABLE",
+    "dateOfPurchase": "Apr 24, 2026, 1:21:12 PM",
+    "ISBN": "978-0-684-80146-7",
+    "title": "The Old Man and the Sea",
+    "subject": "Roman",
+    "publisher": "Scribner",
+    "language": "Ingliz",
+    "numberOfPages": 127,
+    "author": {
+      "name": "Ernest Hemingway",
+      "description": "Amerikalik yozuvchi"
+    }
+  }
+]
